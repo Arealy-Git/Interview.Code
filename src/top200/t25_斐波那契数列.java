@@ -1,0 +1,18 @@
+package top200;
+
+public class t25_斐波那契数列 {
+
+    public static int Fibonacci(int n) {
+        if (n == 0 || n == 1) {
+            return n;
+        }
+        int a = 0, b = 1, c = 0;
+        for (int i = 1; i < n; i++) {
+            c = a + b;
+            a = b;
+            b = c;
+        }
+        return c;
+    }
+
+}
