@@ -5,11 +5,7 @@ import java.util.ArrayList;
 public class 全排列 {
 
     public static void main(String[] args) {
-        System.out.println(
-                new 全排列().getAllList(
-                        new String[]{"123", "456", "789"}
-                )
-        );
+        System.out.println(new 全排列().getAllList(new String[]{"123", "456", "789"}));
     }
 
     StringBuilder sb = new StringBuilder();
