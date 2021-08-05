@@ -1,6 +1,7 @@
 package top200;
 
 public class t2_排序 {
+
     public void quickSort(int[] array, int start, int end) {
         if (start < end) {
             int left = start, right = end, pivot = array[left];
@@ -55,4 +56,5 @@ public class t2_排序 {
             array[start++] = temp[index++];
         }
     }
+
 }

@@ -2,7 +2,7 @@ package top200;
 
 import base.ListNode;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class t48_判断一个链表是否为回文结构 {
 

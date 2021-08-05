@@ -3,7 +3,9 @@ package top200;
 public class t55_最长公共子序列 {
 
     public String LCS(String s1, String s2) {
-        if (s1 == "" || s2 == "" || s1 == null || s2 == null) return "-1";
+        if (s1 == "" || s2 == "" || s1 == null || s2 == null) {
+            return "-1";
+        }
         //dp[i][j] 截至第ij位 两串的最长公共子串长度  把int 换 String
         String[][] dp = new String[s1.length() + 1][s2.length() + 1];
         //初始化：空串与跟任何串的lcs都是0
@@ -21,7 +23,9 @@ public class t55_最长公共子序列 {
                     dp[i][j] = dp[i - 1][j - 1] + s1.charAt(i - 1);
                 }
                 //没找到共同字符 各退一步 继承两者大的那个
-                else dp[i][j] = dp[i - 1][j].length() > dp[i][j - 1].length() ? dp[i - 1][j] : dp[i][j - 1];
+                else {
+                    dp[i][j] = dp[i - 1][j].length() > dp[i][j - 1].length() ? dp[i - 1][j] : dp[i][j - 1];
+                }
             }
         }
         //即便两串不为空串 lcs仍可能因为没有公共字符而使得lcs=0 这时英国返回-1

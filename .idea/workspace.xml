@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="721b6dc4-f6da-49e6-b901-ea0dc941d998" name="Default Changelist" comment="" />
+    <list default="true" id="721b6dc4-f6da-49e6-b901-ea0dc941d998" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t11_链表中的节点每k个一组翻转.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t11_链表中的节点每k个一组翻转.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t13_最长无重复子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t13_最长无重复子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t17_括号序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t17_括号序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t20_按之字形顺序打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t20_按之字形顺序打印二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t22_两个链表的第一个公共结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t22_两个链表的第一个公共结点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t24_螺旋矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t24_螺旋矩阵.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t27_数组中相加和为0的三元组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t27_数组中相加和为0的三元组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t28_重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t28_重建二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t2_排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t2_排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t32_包含min函数的栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t32_包含min函数的栈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t34_合并k个已排序的链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t34_合并k个已排序的链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t35_字符串的排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t35_字符串的排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t37_输出二叉树的右视图.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t37_输出二叉树的右视图.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t38_岛屿数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t38_岛屿数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t3_设计LRU缓存结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t3_设计LRU缓存结构.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t45_表达式求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t45_表达式求值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t46_字符串出现次数的TopK问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t46_字符串出现次数的TopK问题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t48_判断一个链表是否为回文结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t48_判断一个链表是否为回文结构.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t4_实现二叉树先中后序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t4_实现二叉树先中后序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t50_二叉树根节点到叶子节点的所有路和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t50_二叉树根节点到叶子节点的所有路和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t51_二叉树和为指定值的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t51_二叉树和为指定值的路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t54_合并区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t54_合并区间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t55_最长公共子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t55_最长公共子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t57_判断一棵二叉树是否为搜索二叉树和完全二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t57_判断一棵二叉树是否为搜索二叉树和完全二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t59_将字符串转化为整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t59_将字符串转化为整数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t5_求二叉树的层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t5_求二叉树的层序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t7_两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t7_两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/t9_用两个栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/t9_用两个栈实现队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top200/数字字符串转化成IP地址.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top200/数字字符串转化成IP地址.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/DFS/二叉树根节点到叶子节点和为指定值的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/DFS/二叉树根节点到叶子节点和为指定值的路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/二叉树/二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/二叉树/二叉树的最大深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/动态规划/最长回文子串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/动态规划/矩阵的最小路径和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/动态规划/矩阵的最小路径和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/回溯/全排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/回溯/全排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/排序/归并.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/排序/归并.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/排序/快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/排序/快排.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/模拟/判断一个字符串是否是合法的ipv4地址.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/模拟/判断一个字符串是否是合法的ipv4地址.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/递归/表达式求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/递归/表达式求值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/整合/链表/删除有序链表中重复的元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/整合/链表/删除有序链表中重复的元素.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +57,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1t6luulrqoY5vPg8jbsOpFPyypY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -122,6 +168,7 @@
       <workItem from="1627096361612" duration="9000" />
       <workItem from="1627139283664" duration="645000" />
       <workItem from="1627386967373" duration="1225000" />
+      <workItem from="1628130332716" duration="1141000" />
     </task>
     <servers />
   </component>
@@ -208,11 +255,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="257" key="IDE.errors.dialog/0.1080.1280.773/1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623835354785" />
-    <state x="587" y="131" key="SettingsEditor" timestamp="1626912414663">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1628130568196">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="587" y="131" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1626912414663" />
     <state x="2360" y="97" key="SettingsEditor/281.1080.1280.773/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1624523811770" />
+    <state x="440" y="97" key="SettingsEditor/427.1080.1280.773/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628130568196" />
     <state x="0" y="0" width="927" height="1379" key="dock-window-1" timestamp="1626595251759">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

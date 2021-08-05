@@ -1,6 +1,6 @@
 package top200;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class 数字字符串转化成IP地址 {
 

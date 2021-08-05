@@ -33,7 +33,6 @@ public class t11_链表中的节点每k个一组翻转 {
             pre = cur;
             cur = cur.next;
         }
-        
         return dummy.next;
     }
 

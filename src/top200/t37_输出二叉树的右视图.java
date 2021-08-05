@@ -2,10 +2,7 @@ package top200;
 
 import base.TreeNode;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class t37_输出二叉树的右视图 {
 

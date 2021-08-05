@@ -1,6 +1,6 @@
 package top200;
 
-import java.util.Stack;
+import java.util.*;
 
 public class t32_包含min函数的栈 {
 

@@ -1,9 +1,9 @@
 package top200;
 
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
+import java.util.*;
 
 public class t3_设计LRU缓存结构 {
+
     public int[] LRU(int[][] operators, int k) {
         LinkedHashMap<Integer, Integer> lruMap = new LinkedHashMap<Integer, Integer>();
         ArrayList<Integer> list = new ArrayList();
@@ -36,4 +36,5 @@ public class t3_设计LRU缓存结构 {
         }
         return result;
     }
+
 }

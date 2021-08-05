@@ -2,9 +2,7 @@ package top200;
 
 import base.TreeNode;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class t57_判断一棵二叉树是否为搜索二叉树和完全二叉树 {
 

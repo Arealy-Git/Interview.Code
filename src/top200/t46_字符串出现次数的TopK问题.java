@@ -5,7 +5,6 @@ import java.util.*;
 public class t46_字符串出现次数的TopK问题 {
 
     public String[][] topKstrings(String[] strings, int k) {
-        // write code here
         if (k == 0) {
             return new String[][]{};
         }

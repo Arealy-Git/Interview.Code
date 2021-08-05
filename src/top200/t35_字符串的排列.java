@@ -1,7 +1,6 @@
 package top200;
 
-import java.util.ArrayList;
-import java.util.Collections;
+import java.util.*;
 
 public class t35_字符串的排列 {
 

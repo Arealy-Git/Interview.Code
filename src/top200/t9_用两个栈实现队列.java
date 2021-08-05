@@ -1,6 +1,6 @@
 package top200;
 
-import java.util.Stack;
+import java.util.*;
 
 public class t9_用两个栈实现队列 {
 

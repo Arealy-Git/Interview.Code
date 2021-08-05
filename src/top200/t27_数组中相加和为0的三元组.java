@@ -1,7 +1,6 @@
 package top200;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 public class t27_数组中相加和为0的三元组 {
 

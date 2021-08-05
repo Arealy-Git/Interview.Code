@@ -1,6 +1,6 @@
 package top200;
 
-import java.util.HashMap;
+import java.util.*;
 
 public class t7_两数之和 {
 

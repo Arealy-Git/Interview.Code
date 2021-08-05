@@ -3,6 +3,7 @@ package 整合.链表;
 import base.ListNode;
 
 public class 删除有序链表中重复的元素 {
+
     public ListNode deleteDuplicates(ListNode head) {
         ListNode dummy = new ListNode(-1);
         dummy.next = head;
@@ -24,4 +25,5 @@ public class 删除有序链表中重复的元素 {
         }
         return dummy.next;
     }
+
 }

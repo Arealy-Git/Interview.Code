@@ -2,7 +2,7 @@ package top200;
 
 import base.ListNode;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class t34_合并k个已排序的链表 {
 
@@ -12,8 +12,9 @@ public class t34_合并k个已排序的链表 {
 
     public ListNode merge(ArrayList<ListNode> lists, int l, int r) {
         // 左右相等说明不能再分
-        if (l == r)
+        if (l == r) {
             return lists.get(l);
+        }
         if (l > r) {
             return null;
         }
@@ -38,5 +39,5 @@ public class t34_合并k个已排序的链表 {
         tmp.next = node1 != null ? node1 : node2;
         return node.next;
     }
-    
+
 }

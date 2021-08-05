@@ -2,7 +2,7 @@ package top200;
 
 import base.ListNode;
 
-import java.util.HashMap;
+import java.util.*;
 
 public class t22_两个链表的第一个公共结点 {
 
@@ -16,8 +16,9 @@ public class t22_两个链表的第一个公共结点 {
             current1 = current1.next;
         }
         while (current2 != null) {
-            if (hashMap.containsKey(current2))
+            if (hashMap.containsKey(current2)) {
                 return current2;
+            }
             current2 = current2.next;
         }
         return null;

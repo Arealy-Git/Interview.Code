@@ -2,9 +2,7 @@ package top200;
 
 import base.TreeNode;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class t5_求二叉树的层序遍历 {
 

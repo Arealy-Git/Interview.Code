@@ -1,6 +1,7 @@
 package top200;
 
 import base.TreeNode;
+
 import java.util.*;
 
 public class t50_二叉树根节点到叶子节点的所有路和 {
@@ -8,7 +9,7 @@ public class t50_二叉树根节点到叶子节点的所有路和 {
     ArrayList<ArrayList<Integer>> result = new ArrayList<>();
     ArrayList<Integer> path = new ArrayList<>();
 
-    public ArrayList<ArrayList<Integer>> pathSum (TreeNode root, int sum) {
+    public ArrayList<ArrayList<Integer>> pathSum(TreeNode root, int sum) {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
         dfs(root);
         for (int i = 0; i < result.size(); i++) {

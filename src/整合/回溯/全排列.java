@@ -1,6 +1,6 @@
 package 整合.回溯;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class 全排列 {
 

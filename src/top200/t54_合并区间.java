@@ -13,6 +13,7 @@ public class t54_合并区间 {
         }
         //先对start排序
         Collections.sort(intervals, new Comparator<Interval>() {
+            @Override
             public int compare(Interval i1, Interval i2) {
                 return i1.start - i2.start;
             }

@@ -2,8 +2,7 @@ package top200;
 
 import base.TreeNode;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.*;
 
 public class t20_按之字形顺序打印二叉树 {
 

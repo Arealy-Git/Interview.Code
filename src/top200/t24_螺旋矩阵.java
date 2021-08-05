@@ -1,6 +1,6 @@
 package top200;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class t24_螺旋矩阵 {
 
